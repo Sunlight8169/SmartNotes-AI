@@ -1,0 +1,13 @@
+New-Item .gitignore
+```
+
+VS Code mein `.gitignore` kholo aur ye paste karo:
+```
+venv/
+__pycache__/
+*.pyc
+.env
+backend/vectorstore/
+backend/data/uploads/
+*.pdf
+.DS_Store
