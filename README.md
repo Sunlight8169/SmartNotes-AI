@@ -1,4 +1,4 @@
-# 🎓 SmartNotes AI — MY Study Assistant
+# 🎓 SmartNotes AI — My Study Assistant
 
 A RAG-based intelligent document assistant that lets you chat with your PDFs and study notes.
 
